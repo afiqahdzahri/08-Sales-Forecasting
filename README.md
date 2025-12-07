@@ -67,11 +67,6 @@ gh repo create your-username/sales-forecasting-python --public --source=. --remo
 git push -u origin main
 ```
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-Afiqah Dzahri — afiqah@example.com
 
 
 
