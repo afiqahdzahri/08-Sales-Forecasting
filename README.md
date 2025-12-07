@@ -1,9 +1,7 @@
-# Sales Forecasting (Python)
+# Sales Forecasting (Python) (Time Series)
 
 Simple time-series example using pandas and scikit-learn (or statsmodels).
 Included: sample\_sales.csv and forecast.py
-
-# Sales Forecasting (Time Series)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/your-username/sales-forecasting-python?style=flat-square) ![Language](https://img.shields.io/badge/language-Python-blue?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
